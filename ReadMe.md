@@ -27,7 +27,7 @@ A Spring Boot ride-sharing application with JWT authentication and MongoDB.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Saumyajain0003/rideshare_backend.git
+git clone https://github.com/AbhiGupta1310/rideshare_backend.git
 cd rideshare_backend
 ```
 
